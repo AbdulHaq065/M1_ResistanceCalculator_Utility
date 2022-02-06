@@ -25,5 +25,7 @@
 10. Printing the result of the operation i.e. the value of resistor.
 
 ## SWOT Analysis
+![SWOT _analysis_of_resistance_calculator](https://user-images.githubusercontent.com/98849909/152691970-2b9f25d4-03de-4f7e-b29a-e2e925fad855.png)
+
 
 ## 5W's & 1H
