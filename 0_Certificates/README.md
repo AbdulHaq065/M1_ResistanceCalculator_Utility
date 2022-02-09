@@ -20,4 +20,9 @@
  ![AbdulHaq_Githubwith VisualStudioCode_Completion_Screenshot](https://user-images.githubusercontent.com/98849909/152685267-4694f6f2-e79f-4eba-a4cb-cf9f1d40931e.png)
  
    Fig0.4: Github with visual-studio-code completion screenshot
+   
+* Hacker-Earth Score screenshot
+ ![Hackerearth point](https://user-images.githubusercontent.com/98849909/153203339-03b720b4-13e7-4d6f-8a8d-b366a5b74934.PNG)
+
+    Fig0.5: Hacker-Earth Score screenshot 
 
