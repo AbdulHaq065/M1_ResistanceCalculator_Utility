@@ -4,29 +4,32 @@
     * Define expected behaviour
     * Capture the actual result
 #Requirements and Test Plans
-## High Level Requirements
+## High Level Requirements</br>
  
- Sl.NO  ID     Description                                                                     Test Plan
- 1.     HLR1   Entering input regarding the colour code as present on the resistor by user.    Checking for the correct input.  
- 2.     HLR2   Performing certain operations for calculating the value of resistor.            Storing and verifying the Results manually
- 3.     HLR3   Printing the value of resistor.                                                 Printing the output variable 
+ |Sl.NO|ID|Description|Test Plan|
+ |:---|:---|:---|:---|
+ |1.|HLR1| Entering input regarding the colour code as present on the resistor by user.|Checking for the correct input.|  
+ |2.|HLR2| Performing certain operations for calculating the value of resistor.|Storing and verifying the Results manually|
+ |3.|HLR3| Printing the value of resistor.|Printing the output variable| 
 
-## Low Level Requirements
- How each feature is implemented 
-Sl.NO   ID      Description                                                                                                               Test Plane
-1.      LLR1    Asking for the input regarding the   type of colour code of resistor.                                                     Displayof statment
-2.      LLR2    Entering input about the type of colour code present on the resistor by user (4 colour code band / 5 colour code band ).  Store and display for manual verification
-3.      LLR3    Printing the instruction about how to enter the colour code as an input.                                                  Display of statment
-4.      LLR4    Printing the statment to the user, asking for the input regarding the colour code of resistor.                            Display of instruction and verification
-5.      LLR5    Entering of input by the user regarding the colour code of resistor.                                                      Store and verification 
-6.      LLR6    Saving the received input.                                                                                                Verification through computation
-7.      LLR7    Deciding upon the different operations to be performed based on the input received.                                       Computation and verification of results
-8.      LLR8    Performing different calculation based on the operations to be performed.                                                 Computation and verification of results
-9.      LLR9    Storing the result of operations.                                                                                         Storing and display
-10.     LLR10   Printing the result of the operation i.e. the value of resistor.                                                          Display and verification of results
+## Low Level Requirements</br>
+ How each feature is implemented </br>
+  
+|Sl.NO| ID |      Description    |     Test Plane    |
+|:---|:---|:---|:---|
+|1. | LLR1 | Asking for the input regarding the   type of colour code of resistor.| Display of statmente|
+|2. | LLR2 | Entering input about the type of colour code present on the resistor by user (4 colour code band / 5 colour code band ).|Store and display for manual verification|
+|3. | LLR3 | Printing the instruction about how to enter the colour code as an input.| Display of statment|
+|4. | LLR4 | Printing the statment to the user, asking for the input regarding the colour code of resistor.| Display of instruction and verification|
+|5. | LLR5 | Entering of input by the user regarding the colour code of resistor.| Store and verification |
+|6. | LLR6 | Saving the received input.| Verification through computation |
+|7. | LLR7 | Deciding upon the different operations to be performed based on the input received.| Computation and verification of results |
+|8. | LLR8 | Performing different calculation based on the operations to be performed.| Computation and verification of results|
+|9. | LLR9 | Storing the result of operation. | Storing and display|
+|10.| LLR10| Printing the result of the operation i.e. the value of resistor.| Display and verification of results|
 
 
-#Output
+# Output
 ![Output 1](https://user-images.githubusercontent.com/98849909/153707556-25ad2288-c2dd-48b5-9746-4dbec66a88dc.PNG)
 ![outpt 2](https://user-images.githubusercontent.com/98849909/153707564-0a120620-230b-4191-b65f-78ae62b7d5e3.PNG)
 ![Output_with_makefile](https://user-images.githubusercontent.com/98849909/153707567-40e3726b-454f-410e-bb62-83ea9396ad1d.PNG)
