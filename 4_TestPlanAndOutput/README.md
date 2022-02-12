@@ -28,15 +28,42 @@
 |9. | LLR9 | Storing the result of operation. | Storing and display|
 |10.| LLR10| Printing the result of the operation i.e. the value of resistor.| Display and verification of results|
 
+## Test Plane for Output
+
+### Test Run 1 
+|Sl.NO| Description | Status | Input | Expected Output | Actual Output |
+|:---|:---|:---|:---|:----|:----|
+|1. | Output for 1st color of the color coding | Implemented and tested | n or N | 1 | 1 |
+|2. | Output for 2nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
+|3. | Output for 3nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
+|4. | Output for 4nd color of the color coding | Implemented and tested | n or N | 10 | 392247 |
+|5. | Output for 5nd color of the color coding | Further planing  | n or N | +- 0.5% | - |
+
+### Test Run 2 
+|Sl.NO| Description | Status | Input | Expected Output | Actual Output |
+|:---|:---|:---|:---|:----|:----|
+|1. | Output for 1st color of the color coding | Implemented and tested | v or V | 7 | 7 |
+|2. | Output for 2nd color of the color coding | Implemented and tested | b or B | 0 | 0 |
+|3. | Output for 3nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
+|4. | Output for 4nd color of the color coding | Implemented and tested | l or L | 10000 | 392345 |
+|5. | Output for 5nd color of the color coding | Further planing  | n or N | +- 0.5% | - |
+
 
 # Output
-![Output 1](https://user-images.githubusercontent.com/98849909/153707556-25ad2288-c2dd-48b5-9746-4dbec66a88dc.PNG)
-![outpt 2](https://user-images.githubusercontent.com/98849909/153707564-0a120620-230b-4191-b65f-78ae62b7d5e3.PNG)
+*Test case 1 Output
 ![Output_with_makefile](https://user-images.githubusercontent.com/98849909/153707567-40e3726b-454f-410e-bb62-83ea9396ad1d.PNG)
 ![output6](https://user-images.githubusercontent.com/98849909/153707568-5e20666f-6f6f-4de4-8859-2c4f62a37cf2.PNG)
+*Test Case 2 Output 
 ![output5](https://user-images.githubusercontent.com/98849909/153707569-6fdcae30-720b-40b6-8f8a-892216a5856e.PNG)
-![output4](https://user-images.githubusercontent.com/98849909/153707570-dc78b23b-64ee-4c94-a640-00e7224671b8.PNG)
-![output3](https://user-images.githubusercontent.com/98849909/153707571-ea9e72d5-05bb-4954-90c9-f43e38e82183.PNG)
 
 ## Output using Makefile
 ![Output_with_makefile](https://user-images.githubusercontent.com/98849909/153707567-40e3726b-454f-410e-bb62-83ea9396ad1d.PNG)
+
+*Other Sample output while logic building and debugging 
+![output4](https://user-images.githubusercontent.com/98849909/153707570-dc78b23b-64ee-4c94-a640-00e7224671b8.PNG)
+![output3](https://user-images.githubusercontent.com/98849909/153707571-ea9e72d5-05bb-4954-90c9-f43e38e82183.PNG)
+![Output 1](https://user-images.githubusercontent.com/98849909/153707556-25ad2288-c2dd-48b5-9746-4dbec66a88dc.PNG)
+![outpt 2](https://user-images.githubusercontent.com/98849909/153707564-0a120620-230b-4191-b65f-78ae62b7d5e3.PNG)
+
+
+
