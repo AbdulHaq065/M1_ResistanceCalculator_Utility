@@ -16,3 +16,8 @@
 5. Learned about Unite testing, manual testing and about the efficient way to write a programs.
 6. Learned about the process followed in the industry for solving of a problem.
 7. Learned about Product development lifecyle and applied it during this project to arrive at a fissible solution. 
+
+# Quality Report from codiga
+
+![Cidiga](https://user-images.githubusercontent.com/98849909/153711148-d7bf3f30-74b7-47c3-835e-2f71e93c4443.PNG)
+
