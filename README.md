@@ -3,6 +3,8 @@ Repository to create a C programming based solution for calculating the resistan
 
 [![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml)
 
+[![C/C++ CI](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml)
+
 # Milestone-1
 
 # Requirements
@@ -150,3 +152,4 @@ Fig1.4: SWOT Analysis of Resistor Calculator
 
 [![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml)
 
+[![C/C++ CI](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml)
