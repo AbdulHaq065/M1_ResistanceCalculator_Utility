@@ -1,6 +1,8 @@
 # M1_ResistanceCalculator_Utility
 Repository to create a C programming based solution for calculating the resistance of a resistor using color coding
 
+[![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml)
+
 # Milestone-1
 
 # Requirements
