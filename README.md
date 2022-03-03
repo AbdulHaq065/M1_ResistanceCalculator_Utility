@@ -146,5 +146,5 @@ Fig1.4: SWOT Analysis of Resistor Calculator
 ![outpt 2](https://user-images.githubusercontent.com/98849909/153707564-0a120620-230b-4191-b65f-78ae62b7d5e3.PNG)
 
 
-
+[![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml)
 
