@@ -34,23 +34,26 @@
 |Sl.NO| Description | Status | Input | Expected Output | Actual Output |
 |:---|:---|:---|:---|:----|:----|
 |1. | Output for 1st color of the color coding | Implemented and tested | r or R | 2 | 2 |
-|2. | Output for 2nd color of the color coding | Implemented and tested | y or Y | 4 | 4 |
-|3. | Output for 3nd color of the color coding | Implemented and tested | g or G | 5 | 5 |
-|4. | Output for 4nd color of the color coding | Implemented and tested | n or N | 10 | 10 |
+|2. | Output for 2nd color of the color coding | Implemented and tested | g or G | 5 | 5 |
+|3. | Output for 3nd color of the color coding | Implemented and tested | y or Y | 4 | 4 |
+|4. | Output for 4nd color of the color coding | Implemented and tested | o or O | 1000 | 1000 |
 |5. | Output for 5nd color of the color coding | Further planing  | n or N | +- 0.5% | - |
 
 ### Test Run 2 
 |Sl.NO| Description | Status | Input | Expected Output | Actual Output |
 |:---|:---|:---|:---|:----|:----|
-|1. | Output for 1st color of the color coding | Implemented and tested | v or V | 7 | 7 |
+|1. | Output for 1st color of the color coding | Implemented and tested | n or N | 1 | 1 |
 |2. | Output for 2nd color of the color coding | Implemented and tested | b or B | 0 | 0 |
-|3. | Output for 3nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
-|4. | Output for 4nd color of the color coding | Implemented and tested | l or L | 10000 | 10000 |
+|3. | Output for 3nd color of the color coding | Implemented and tested | g or G | 5 | 5 |
+|4. | Output for 4nd color of the color coding | Implemented and tested | r or R | 100 | 100 |
 |5. | Output for 5nd color of the color coding | Further planing  | n or N | +- 0.5% | - |
 
 
 # Output
+
+* Testcases output 
 ![Capture4](https://user-images.githubusercontent.com/98849909/156753127-df1cff17-16bd-480f-9978-f6f5cf4c74ed.PNG)
+
 ![Capture3](https://user-images.githubusercontent.com/98849909/156753153-f61759b2-d9e0-4164-a597-0246267a6c2b.PNG)
 ![OUTPUTUSING MAKE](https://user-images.githubusercontent.com/98849909/156753173-732b30d3-e071-45c5-8c28-7eb11ea22fc7.PNG)
 ![Capture1](https://user-images.githubusercontent.com/98849909/156753200-a37095bb-6419-4377-8968-e48c9e112c7a.PNG)
