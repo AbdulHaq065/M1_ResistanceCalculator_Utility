@@ -1,9 +1,9 @@
 # M1_ResistanceCalculator_Utility
 Repository to create a C programming based solution for calculating the resistance of a resistor using color coding
 
-[![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml)
+[![Build_Linux](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Build-Linux.yml) [![C/C++ CI](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml) [![Unity](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml) [![Unit Testing -Unity](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/unity.yml) [![.github/workflows/Static-check.yml](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Static-check.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Static-check.yml)  [![Dynamiccheck](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Dynamic-check.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/Dynamic-check.yml)
 
-[![C/C++ CI](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AbdulHaq065/M1_ResistanceCalculator_Utility/actions/workflows/c-cpp.yml)
+
 
 # Milestone-1
 
