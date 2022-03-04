@@ -33,10 +33,10 @@
 ### Test Run 1 
 |Sl.NO| Description | Status | Input | Expected Output | Actual Output |
 |:---|:---|:---|:---|:----|:----|
-|1. | Output for 1st color of the color coding | Implemented and tested | n or N | 1 | 1 |
-|2. | Output for 2nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
-|3. | Output for 3nd color of the color coding | Implemented and tested | n or N | 1 | 1 |
-|4. | Output for 4nd color of the color coding | Implemented and tested | n or N | 10 | 392247 |
+|1. | Output for 1st color of the color coding | Implemented and tested | r or R | 2 | 2 |
+|2. | Output for 2nd color of the color coding | Implemented and tested | y or Y | 4 | 4 |
+|3. | Output for 3nd color of the color coding | Implemented and tested | g or G | 5 | 5 |
+|4. | Output for 4nd color of the color coding | Implemented and tested | n or N | 10 | 10 |
 |5. | Output for 5nd color of the color coding | Further planing  | n or N | +- 0.5% | - |
 
 ### Test Run 2 
@@ -51,6 +51,7 @@
 
 # Output
 *Test case 1 Output
+
 ![Output_with_makefile](https://user-images.githubusercontent.com/98849909/153707567-40e3726b-454f-410e-bb62-83ea9396ad1d.PNG)
 ![output6](https://user-images.githubusercontent.com/98849909/153707568-5e20666f-6f6f-4de4-8859-2c4f62a37cf2.PNG)
 *Test Case 2 Output 
