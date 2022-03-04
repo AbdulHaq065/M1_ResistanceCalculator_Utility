@@ -13,10 +13,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - uses: actions/checkout@v
     - name: apt install dependency
       run:
         sudo apt-get -y install valgrind
-        sudo spt-get -y install libcunit1-doc libcunit-dev
     - name: Dynamic Analysis
       run: make dynamic_analysis -C 3_Implementation
 
